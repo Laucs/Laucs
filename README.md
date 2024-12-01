@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo21817
-Fork on GitHub6942
 <h1 align="center">Hi 👋, I'm Yancy Louis S. Luceño</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 
