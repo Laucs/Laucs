@@ -5,13 +5,11 @@
 <h2 align="left">About me</h2>
 
 <p align="left">📚 I'm currently learning Java<br>🎯 Goals:  
-- Graduate with academic distinction.  
 - Build robust and user-friendly applications.  
-- Gain hands-on experience in software development .  
-- Contribute to impactful tech projects, particularly in healthcare and user-centered design.  
+- Gain hands-on experience in software development.  
+- Contribute to impactful tech projects.  
 - Start a career in programming or app development after graduation.  
 - Continuously enhance skills through certifications and self-learning.</p>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yancylouis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yancylouis) 
