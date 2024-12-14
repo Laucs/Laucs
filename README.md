@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-## 🎯 Goals:  
+### 🎯 Goals:  
 - Build robust and user-friendly applications.  
 - Gain hands-on experience in software development.  
 - Contribute to impactful tech projects.  
