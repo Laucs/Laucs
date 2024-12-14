@@ -1,10 +1,10 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Yancy Louis S. Luceño and I'm a BSIT - 4th Year Student, from University of Cebu - Banilad Campus</p>
+<p align="left">My name is Yancy Louis S. Luceño and I'm a BSIT - 4th Year Student, from University of Cebu - Banilad Campus <br> 📚I'm currently learning Java.</p>
 
 <h2 align="left">About me</h2>
 
-<p align="left">📚 I'm currently learning Java<br>🎯 Goals:  
+## 🎯 Goals:  
 - Build robust and user-friendly applications.  
 - Gain hands-on experience in software development.  
 - Contribute to impactful tech projects.  
