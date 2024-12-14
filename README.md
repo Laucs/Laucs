@@ -11,7 +11,7 @@
 #### ⚙️ I am proficient in Java, Kotlin, C#, and ASP.NET Core, and I have experience using tools like Retrofit, Roboflow, and Firebase.  
 #### 🎨 I’m driven to combine functionality and design in every project to deliver great user experiences.  
 #### ✍️ Outside of programming, I enjoy reading manga, watching movies, anime, podcasts and commentaries, and exploring innovative tech ideas.  
-#### 🎯 Goals:  
+## 🎯 Goals  
 - #### Build robust and user-friendly applications.  
 - #### Gain hands-on experience in software development.  
 - #### Contribute to impactful tech projects.  
