@@ -7,9 +7,9 @@
 
 ### 🌟 I enjoy tackling complex problems and finding efficient solutions.  
 
-### 💡 I'm passionate about technology, especially in integrating AI and AR to create user-centered applications.  
+#### 💡 I'm passionate about technology, especially in integrating AI and AR to create user-centered applications.  
 
-### 🖥️ I’ve worked on several projects, including an **Internet Cafe Management System**, a **Student Enrollment System**, and a **Capstone Project focused on first-aid AR solutions**.  
+#### 🖥️ I’ve worked on several projects, including an **Internet Cafe Management System**, a **Student Enrollment System**, and a **Capstone Project focused on first-aid AR solutions**.  
 ### ⚙️ I am proficient in Java, Kotlin, C#, and ASP.NET Core, and I have experience using tools like Retrofit, Roboflow, and Firebase.  
 
 ### 🎨 I’m driven to combine functionality and design in every project to deliver great user experiences.  
