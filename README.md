@@ -1,3 +1,16 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+<p align="left">My name is Yancy Louis S. Luceño and I'm a BSIT - 4th Year Student, from University of Cebu - Banilad Campus</p>
+
+<h2 align="left">About me</h2>
+
+<p align="left">📚 I'm currently learning Java<br>🎯 Goals:  
+- Graduate with academic distinction.  
+- Build robust and user-friendly applications.  
+- Gain hands-on experience in software development .  
+- Contribute to impactful tech projects, particularly in healthcare and user-centered design.  
+- Start a career in programming or app development after graduation.  
+- Continuously enhance skills through certifications and self-learning.</p>
 
 
 ## 🌐 Socials:
