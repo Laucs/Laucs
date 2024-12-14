@@ -3,25 +3,27 @@
 <p align="left">My name is Yancy Louis S. Luceño and I'm a BSIT - 4th Year Student, from University of Cebu - Banilad Campus <br> </p>
 
 <h2 align="left">About me</h2>
-### 📚 I'm currently learning Java and expanding my skills in mobile and web development.  
 
-### 🌟 I enjoy tackling complex problems and finding efficient solutions.  
+#### 📚 I'm currently learning Java and expanding my skills in mobile and web development.  
+
+#### 🌟 I enjoy tackling complex problems and finding efficient solutions.  
 
 #### 💡 I'm passionate about technology, especially in integrating AI and AR to create user-centered applications.  
 
 #### 🖥️ I’ve worked on several projects, including an **Internet Cafe Management System**, a **Student Enrollment System**, and a **Capstone Project focused on first-aid AR solutions**.  
-### ⚙️ I am proficient in Java, Kotlin, C#, and ASP.NET Core, and I have experience using tools like Retrofit, Roboflow, and Firebase.  
 
-### 🎨 I’m driven to combine functionality and design in every project to deliver great user experiences.  
+#### ⚙️ I am proficient in Java, Kotlin, C#, and ASP.NET Core, and I have experience using tools like Retrofit, Roboflow, and Firebase.  
+
+#### 🎨 I’m driven to combine functionality and design in every project to deliver great user experiences.  
 
 ### ✍️ Outside of programming, I enjoy reading manga, watching movies, anime, podcasts and commentaries, and exploring innovative tech ideas.  
 
-### 🎯 Goals:  
-- Build robust and user-friendly applications.  
-- Gain hands-on experience in software development.  
-- Contribute to impactful tech projects.  
-- Start a career in programming or app development after graduation.  
-- Continuously enhance skills through certifications and self-learning.</p>
+#### 🎯 Goals:  
+- #### Build robust and user-friendly applications.  
+- #### Gain hands-on experience in software development.  
+- #### Contribute to impactful tech projects.  
+- #### Start a career in programming or app development after graduation.  
+- #### Continuously enhance skills through certifications and self-learning.</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yancylouis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yancylouis) 
